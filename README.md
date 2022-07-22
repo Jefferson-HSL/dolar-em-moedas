@@ -7,7 +7,7 @@ Site inteiramente feito com HTML 5, CSS 3 e JavaScript converte o valor em dolar
 
 #Mode Dark
 
-![Website Screenshot](https://github.com/Jefferson-HSL/OptimusTech/blob/master/image/website-image.png)
+![Website Screenshot](https://github.com/Jefferson-HSL/dolar-em-moedas/blob/master/image/website-image.jpg)
 ## Documentação de cores
 
 | Cor               | Hexadecimal                                                |
